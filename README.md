@@ -1,6 +1,5 @@
-# PRO-C78-1_4-Proyecto
-Solución del proyecto
-Travesía digitial etapa 4
+# PRO_C70_AA1_1_4-Biblioteca-Digital
+Solución del código de PRO 710.
 
-Proyecto
+Plan de la clase. 
 ## Texto en inglés: After Class Project solution for PRO-C71
