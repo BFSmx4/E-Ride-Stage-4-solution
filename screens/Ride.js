@@ -86,7 +86,7 @@ export default class RideScreen extends Component {
       <View style={styles.container}>
         <View style={styles.upperContainer}>
           <Image source={appIcon} style={styles.appIcon} />
-          <Text style={styles.title}>e-ride</Text>
+          <Text style={styles.title}>Paseo electrónico</Text>
           <Text style={styles.subtitle}>Un viaje ecológico</Text>
         </View>
         <View style={styles.lowerContainer}>
