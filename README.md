@@ -1,2 +1,2 @@
-# PRO-C70-Biblioteca-digital
-Solución del código de PRO-C70
+# PRO-C71-Proyecto
+Solución del proyecto de PRO-C71
